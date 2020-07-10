@@ -2,6 +2,7 @@
   "name" : "xiayin1992728/db",
   "php" : ">=7.1",
   "version" : "1.0.0",
+  "license": "MIT",
   "repositories" : [
     {
       "type" : "vcs",
