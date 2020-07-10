@@ -1,0 +1,11 @@
+{
+  "name" : "xiayin1992728/Db",
+  "php" : ">=7.1",
+  "version" : "1.0.0",
+  "repositories" : [
+    {
+      "type" : "vcs",
+      "url" : "https://github.com/username/hello-world"
+    }
+  ]
+}
