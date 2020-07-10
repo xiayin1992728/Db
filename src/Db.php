@@ -5,6 +5,7 @@
  * Date: 2020/7/10 0010
  * Time: 20:51
  */
+namespace my\db;
 
 class Db
 {
